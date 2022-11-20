@@ -1,5 +1,5 @@
 ### Hi there 👋 
-### My name is JOOYOON PARK and My English-speaking friend calls me PETER.
+### My name is JOOYOON PARK
 
 <!--
 **1992JYP/1992JYP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
