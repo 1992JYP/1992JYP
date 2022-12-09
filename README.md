@@ -1,6 +1,6 @@
 ### Hi there 👋 
 ### My name is JOOYOON PARK
-
+### I'm working at EG Asset Pricing Company.
 <!--
 **1992JYP/1992JYP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
